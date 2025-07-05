@@ -28,7 +28,6 @@ Besides programming, I enjoy eating good food and traveling.
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png" alt="Dart" width="24" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" alt="Flutter" width="24" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="24" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="24" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL" width="24" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png" alt="Firebase" width="24" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" width="24" />
@@ -37,4 +36,4 @@ Besides programming, I enjoy eating good food and traveling.
 
 ---
 
-_Last Edited on: 01/10/2024_
+_Last Edited on: 05/07/2025_
