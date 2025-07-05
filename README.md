@@ -1,30 +1,40 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" />
 
 <a href="https://www.linkedin.com/in/omerulusoy/">
-  <img align="left" alt="Ömer Ulusoy LinkedIN profile" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />
+  <img align="left" alt="LinkedIn" width="20" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />
 </a>
 
-<br />
+<br/>
 
-Hi, I'm Ömer Ulusoy, a Full Stack Developer 🚀 from Turkey, currently, I'm a Software Developer at Rast Mobile 🙍🏽‍♂️. Beside's programming, I enjoy eating food and traveling.
+Hi, I'm **Ömer Ulusoy**, a Full Stack Developer 🚀 from Turkey.  
+Currently working as a Software Developer at **Rast Mobile** 🙍🏽‍♂️.  
+Besides programming, I enjoy eating good food and traveling.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-**Talking about Personal Stuffs:**
+<img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" />
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 💬 Ask me about anything, I am happy to help;
+---
 
-**Languages and Tools:**  
+### 🧠 Personal Stuffs
 
-<code><img height="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+- 👨🏽‍💻 I’m currently working on something cool 😉  
+- 💬 Ask me about anything, I’m happy to help!
 
-Last Edited on: 01/10/2024
+---
+
+### 🛠️ Languages and Tools
+
+<p>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="24" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png" alt="Dart" width="24" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" alt="Flutter" width="24" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="24" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="24" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL" width="24" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png" alt="Firebase" width="24" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" width="24" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" alt="PHP" width="24" />
+</p>
+
+---
+
+_Last Edited on: 05/07/2025_
