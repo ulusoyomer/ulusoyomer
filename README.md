@@ -6,18 +6,21 @@
 
 <br/>
 
-Hi, I'm **Ömer Ulusoy**, a Full Stack Developer 🚀 from Turkey.  
-Currently working as a Software Developer at a software company 🙍🏽‍♂️.  
-Besides programming, I enjoy eating good food and traveling.
+Hi, I'm **Ömer Ulusoy** — a Full Stack Developer 🚀  
+
+I enjoy building scalable applications and exploring new technologies.  
+Currently working as a **Software Developer**.
+
+Besides coding, I enjoy good food and traveling.
 
 <img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" />
 
 ---
 
-### 🧠 Personal Stuffs
+### 🧠 About Me
 
-- 👨🏽‍💻 I’m currently working on something cool 😉  
-- 💬 Ask me about anything, I’m happy to help!
+- 👨‍💻 Working on interesting projects
+- 💬 Feel free to ask me anything
 
 ---
 
