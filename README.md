@@ -23,9 +23,9 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=omerulusoy&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ulusoyomer&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerulusoy&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulusoyomer&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -34,7 +34,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=omerulusoy&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ulusoyomer&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -42,7 +42,7 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=omerulusoy&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ulusoyomer&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -68,5 +68,5 @@
 ---
 
 <p align="center">
-⭐️ From <a href="https://github.com/omerulusoy">Ömer Ulusoy</a>
+⭐️ From <a href="https://github.com/ulusoyomer">Ömer Ulusoy</a>
 </p>
