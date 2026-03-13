@@ -1,42 +1,72 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" />
+<h1 align="center">Hi 👋, I'm Ömer Ulusoy</h1>
 
-<a href="https://www.linkedin.com/in/omerulusoy/">
-  <img align="left" alt="LinkedIn" width="20" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />
-</a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4F8CC9&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Building+Scalable+Applications;Always+Learning+New+Things" />
+</p>
 
-<br/>
-
-Hi, I'm **Ömer Ulusoy** — a Full Stack Developer 🚀  
-
-I enjoy building scalable applications and exploring new technologies.  
-Currently working as a **Software Developer**.
-
-Besides coding, I enjoy good food and traveling.
-
-<img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" />
-
----
-
-### 🧠 About Me
-
-- 👨‍💻 Working on interesting projects
-- 💬 Feel free to ask me anything
-
----
-
-### 🛠️ Languages and Tools
-
-<p>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="24" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png" alt="Dart" width="24" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" alt="Flutter" width="24" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="24" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL" width="24" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png" alt="Firebase" width="24" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" width="24" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" alt="PHP" width="24" />
+<p align="center">
+  Passionate about building useful products and exploring new technologies.
 </p>
 
 ---
 
-_Last Edited on: 05/07/2025_
+## 🚀 About Me
+
+- 💻 Full Stack Developer  
+- 🚀 Passionate about building scalable applications  
+- 🧠 Always learning and exploring new technologies  
+- 💬 Ask me anything, happy to help  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=omerulusoy&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerulusoy&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=omerulusoy&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=omerulusoy&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/omerulusoy/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+⭐️ From <a href="https://github.com/omerulusoy">Ömer Ulusoy</a>
+</p>
